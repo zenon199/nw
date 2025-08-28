@@ -1,12 +1,12 @@
-import type { Metadata } from 'next'
-import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
+import { GeistSans } from 'geist/font/sans'
+import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'BarterNow',
+  description: 'Complete Event management solutions.',
+  generator: 'BarterNow.in',
 }
 
 export default function RootLayout({
