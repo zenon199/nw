@@ -81,52 +81,15 @@ export default function ContactUs() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Email Us</h3>
-                    <p className="text-muted-foreground">support@barternow.in</p>
+                    <p className="text-muted-foreground">support@barternow.com</p>
                     {/* <p className="text-muted-foreground">partnerships@barternow.com</p> */}
                   </div>
                 </div>
 
-                {/* <div className="flex items-start space-x-4">
-                  <div className="w-12 h-12 bg-accent/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Phone className="h-6 w-6 text-accent" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-foreground mb-1">Call Us</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
-                    <p className="text-sm text-muted-foreground">Mon-Fri 9AM-6PM EST</p>
-                  </div>
-                </div>
-
-                <div className="flex items-start space-x-4">
-                  <div className="w-12 h-12 bg-accent/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                    <MapPin className="h-6 w-6 text-accent" />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold text-foreground mb-1">Visit Us</h3>
-                    <p className="text-muted-foreground">123 Business Ave</p>
-                    <p className="text-muted-foreground">San Francisco, CA 94105</p>
-                  </div> 
-                </div>*/}
+                
               </div>
             </div>
 
-            {/* <div className="bg-muted/30 p-6 rounded-lg">
-              <h3 className="font-semibold text-foreground mb-3">Business Hours</h3>
-              <div className="space-y-2 text-sm text-muted-foreground">
-                <div className="flex justify-between">
-                  <span>Monday - Friday</span>
-                  <span>9:00 AM - 6:00 PM EST</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Saturday</span>
-                  <span>10:00 AM - 4:00 PM EST</span>
-                </div>
-                <div className="flex justify-between">
-                  <span>Sunday</span>
-                  <span>Closed</span>
-                </div>
-              </div>
-            </div> */}
           </div>
 
           {/* Contact Form */}
